@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page3Form.ui.qml</file>
+        <file>TextBlock.qml</file>
+        <file>TextBlockForm.ui.qml</file>
+        <file>ListComponent.qml</file>
+        <file>ListComponentForm.ui.qml</file>
+        <file>StatBlock.qml</file>
+        <file>StatBlockForm.ui.qml</file>
+        <file>potion.png</file>
+    </qresource>
+</RCC>
